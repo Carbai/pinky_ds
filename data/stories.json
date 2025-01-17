@@ -1,0 +1,21 @@
+{"project": "On women killing in this country",
+"goal": "What we'll try to do here is go through ISTAT data and tell wrong stories that could come up by partially and selectively interpret data. Basically we decide the story first and then force our data to tell the story we like the most.",
+"stories": [
+            {"title": "Partial story number 1", 
+            "statement": "There is no issue, men die more.", 
+            "description": "Throughout the observed time period, men have been the majority of homicide victims. However, what insights can we uncover by examining the trends in homicides over the past years?",
+            "explaination": "While men may experience higher absolute numbers of homicides, data reveals that women are disproportionately killed by their partners or ex-partners. Acknowledging this does not diminish the reality of male homicides but highlights a distinct and troubling trend in femicides. Moreover, while overall homicide rates may be decreasing, the percentage of women killed by their partner or ex-partner has shown no significant decline, emphasizing the persistent nature of this issue."},
+
+            {"title": "Partial story number 2",
+            "statement":"The North is more dangerous.",
+            "description":"",
+            "explaination":"In 2023 about 48 % of the total homicides happened in the northern regions. A higher population often correlates with a higher number of feminicides. While absolute numbers might indicate more incidents in the North, adjusting for regional population reveals a different perspective."
+            },
+
+            {"title": "Partial story number 3",
+            "statement": "Illegal migration spikes gender violence.",
+            "description": "",
+            "explaination": "This is an intriguing challenge. A common issue in data analysis is the absence of specific data—and this is one such case. Italy does not collect information on the citizenship of individuals committing gender-related crimes, nor on whether they are undocumented migrants. Without this data, it is impossible to confirm or debunk the claim that 'Illegal migration spikes gender violence'. This highlights the importance of data availability in addressing sensitive societal narratives."
+            }
+            ]
+}
