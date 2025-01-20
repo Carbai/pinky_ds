@@ -49,6 +49,7 @@ stories=project['stories']
 
 ## dash app
 app = Dash(__name__)
+server= app.server
 app.layout = html.Div(
                 children=[
                     html.H1(title),
