@@ -13,6 +13,7 @@ importlib-metadata
 kiwisolver
 matplotlib
 numpy
+openpyxl
 packaging
 pandas
 Pillow
