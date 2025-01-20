@@ -10,7 +10,6 @@ fiona
 geopandas
 idna
 importlib-metadata
-json
 kiwisolver
 matplotlib
 numpy
