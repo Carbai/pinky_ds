@@ -40,7 +40,7 @@ fig_map=graphs.graph_cloropleth(df_geo, map_df, color_col='Females - Partner or 
 fig_map_norm=graphs.graph_cloropleth(df_geo, map_df, color_col='Females - Partner or ex partner - norm', type='norm')
 
 ## get stories text
-f = open('./Data/stories.json')
+f = open('./data/stories.json')
 project = json.load(f)
 title=project['project']
 desc=project['goal']
