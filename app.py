@@ -160,4 +160,4 @@ def update_button3(n_clicks):
 def reveal_story3(n_clicks):
   return n_clicks % 2 == 0
 
-app.run(host='0.0.0.0',port='0.0.0.0')
+app.run(host='0.0.0.0')
