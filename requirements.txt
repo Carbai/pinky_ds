@@ -28,3 +28,4 @@ tenacity
 typing_extensions
 urllib3
 zipp
+gunicorn

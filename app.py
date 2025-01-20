@@ -49,6 +49,7 @@ stories=project['stories']
 
 ## dash app
 app = Dash(__name__)
+app.title='PinkyDS'
 server= app.server
 app.layout = html.Div(
                 children=[
