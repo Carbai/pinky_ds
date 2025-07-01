@@ -1,15 +1,15 @@
-# import pandas as pd
-# import json
-# import sys
-# sys.path.append('modules')
-# from data_processor import DataProcessor
-# import graphs
-# import datetime
-# import geopandas as gpd
-# import plotly_express as px
-# import pyproj
-# from dash import Dash, html, dcc, Input, Output
-
+import pandas as pd
+import json
+import sys
+sys.path.append('modules')
+from data_processor import DataProcessor
+import graphs
+import datetime
+import geopandas as gpd
+import plotly_express as px
+import pyproj
+from dash import Dash, html, dcc, Input, Output, ctx
+from functools import lru_cache
 # ## data wrangling
 # istat_data=pd.read_excel('./data/omicidi-relazione-autore-DCPC-anni-2002-2023.xlsx',sheet_name=None) ## read data from local file
 # data=DataProcessor(istat_data)
@@ -162,17 +162,6 @@
 #   return n_clicks % 2 == 0
 
 # app.run(host='0.0.0.0')
-
-import pandas as pd
-import geopandas as gpd
-import json
-import datetime
-import pyproj
-from dash import Dash, html, dcc, Input, Output, ctx
-import plotly.express as px
-from functools import lru_cache
-import graphs  # assuming this is your module
-from data_processor import DataProcessor  # assuming this is your module
 
 # Cache data loading
 @lru_cache()
