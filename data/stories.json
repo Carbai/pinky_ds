@@ -1,21 +1,25 @@
-{"project": "On women killing in this country",
-"goal": "What we'll try to do here is go through ISTAT data and tell wrong stories that could come up by partially and selectively interpret data. Basically we decide the story first and then force our data to tell the story we like the most.",
-"stories": [
-            {"title": "Partial story number 1", 
-            "statement": "There is no issue, men die more.", 
-            "description": "Throughout the observed time period, men have been the majority of homicide victims. However, what insights can we uncover by examining the trends in homicides over the past years?",
-            "explaination": "While men may experience higher absolute numbers of homicides, data reveals that women are disproportionately killed by their partners or ex-partners. Acknowledging this does not diminish the reality of male homicides but highlights a distinct and troubling trend in femicides. Moreover, while overall homicide rates may be decreasing, the percentage of women killed by their partner or ex-partner has shown no significant decline, emphasizing the persistent nature of this issue."},
-
-            {"title": "Partial story number 2",
-            "statement":"The North is more dangerous.",
-            "description":"",
-            "explaination":"In 2023 about 48 % of the total homicides happened in the northern regions. A higher population often correlates with a higher number of feminicides. While absolute numbers might indicate more incidents in the North, adjusting for regional population reveals a different perspective."
-            },
-
-            {"title": "Partial story number 3",
+{
+    "project": "On women killing in this country",
+    "goal": "Let’s be clear: data doesn’t lie. But people do. They slice it, spin it, and sell it until reality becomes fiction. This is what happens with feminicide in Italy. Every year, women are killed by partners, exes, relatives and yet, somehow, the narrative manages to shift blame, minimize, or vanish it entirely. So here’s what we’re going to do: we’ll play their game. We’ll take the raw numbers from Italian National Istitute of Statistics (ISTAT) and force them to tell the story someone wants to hear. We’ll cherry-pick the stats, strip out the nuance, and make it sound like everything’s fine. Then we’ll undo it. We’ll show you what happens when you stop torturing the data and start listening to it. We’ll walk through the patterns, the silences, the spikes that shouldn’t exist. We’ll remind you that behind every row in the dataset is a name, a life, a brutal ending that was neither random nor rare. Because if you’re not angry yet maybe you’re not paying attention.",
+    "stories": [
+        {
+            "title": "Partial story number 1",
+            "statement": "There is no issue, men die more.",
+            "description": "See? Men die more. Always have.\n That’s the line. And if you look at the absolute numbers, just cold, hard counts of homicide victims, well it’s true. From 2002 to 2023, men make up the majority of people killed in Italy. Pick a year, any year. The pie chart doesn’t lie. Men get murdered more than women. So what’s the big deal? Where’s the emergency? Why are we even talking about feminicide? If you stop here, the story’s over. The stats are in. Crisis averted. Go back to sleep. But we’re not stopping here. Because raw numbers don’t tell you who did the killing. They don’t tell you why someone was killed, or how, or by whom. They don’t tell you about homes, bedrooms, relationships, or the slow erosion of safety that women navigate every single day. So go ahead—cling to the count. Pretend the issue is simple. But keep reading. We’re not done yet.",
+            "explaination": "Sure, homicides overall have dropped. Fewer people are being killed. Great. But don’t celebrate just yet. Because the proportion of women killed by partners or exes? That isn’t going down. It just stays. Year after year. Consistent. Brutal. This isn’t about comparing tragedies. It’s about naming them correctly. Men are dying. But women are being hunted in their own homes. And pretending these are the same story is exactly how we keep making it worse.",
+            "explaination_var": "Let’s break down that earlier pie — the one where we pretended everything was fine because more men die. Now split it by killer. For women, the largest slice is reserved for partners and ex-partners. Not strangers in the street. Not random bar fights. People they lived with. Slept with. Trusted. For men? That slice is tiny. Barely worth a mention. When a man is killed, it’s rarely by his partner.  When a woman is killed, it almost always is."
+        },
+        {
+            "title": "Partial story number 2",
+            "statement": "The North is more dangerous.",
+            "description": "Let’s go with the headline: 48% of all feminicides happened in the North. That’s almost half. So sure, if you’re hunting for a villain by geography, this feels easy. The North is richer, more progressive, more developed — and yet here it is, leading the body count. Must be something in the air, right?",
+            "explaination": "Because when we actually account for population — the people who live there — the map flips. Suddenly, that neat northern narrative starts to fall apart. The South, the islands, smaller regions — they rise. Proportionally, the danger shifts. Turns out the North doesn’t have more violence — it just has more people. So no, geography doesn’t absolve anyone. But lazy readings? They mislead everyone."
+        },
+        {
+            "title": "Partial story number 3",
             "statement": "Illegal migration spikes gender violence.",
             "description": "",
-            "explaination": "This is an intriguing challenge. A common issue in data analysis is the absence of specific data—and this is one such case. Italy does not collect information on the citizenship of individuals committing gender-related crimes, nor on whether they are undocumented migrants. Without this data, it is impossible to confirm or debunk the claim that 'Illegal migration spikes gender violence'. This highlights the importance of data availability in addressing sensitive societal narratives."
-            }
-            ]
+            "explaination": "Of course it does. Why wouldn’t it? It’s convenient, it’s headline-ready, and best of all — it requires no proof. Because no one’s collecting the proof. In Italy, there’s no data on the citizenship of people who commit gender-based violence. No info on their migration status. No clear records separating “undocumented” from “citizen”. So here’s the play: They throw out a claim, they light the match, and when you look deeper? The data doesn’t exist. And as long as there’s no data, there’s no way to call bullshit. So no, we can’t debunk this story with Italian data. Because there is no data. And maybe that’s the point."
+        }
+    ]
 }
