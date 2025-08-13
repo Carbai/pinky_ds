@@ -32,3 +32,4 @@ urllib3
 zipp
 gunicorn
 graphs
+Cython==3.1.2
