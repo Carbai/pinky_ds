@@ -11,7 +11,7 @@ geopandas
 idna
 importlib-metadata
 kiwisolver
-matplotlib
+matplotlib==3.10.0
 numpy
 openpyxl
 packaging
