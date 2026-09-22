@@ -1,5 +1,3 @@
-# pinky_ds
-
 # PinkyDS — On women killing in this country
 
 A data-analysis project on femicide in Italy, built around a simple, uncomfortable idea:
